@@ -6,7 +6,7 @@ import (
 
 	"github.com/u6du/highwayhash"
 
-	"github.com:u6du/udpaddr"
+	"github.com/u6du/udpaddr"
 )
 
 func Uint64(addr *net.UDPAddr) uint64 {
@@ -22,4 +22,3 @@ func Byte(addr *net.UDPAddr) []byte {
 	b := Byte8(addr)
 	return b[:]
 }
-

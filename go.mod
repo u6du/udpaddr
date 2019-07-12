@@ -1,4 +1,4 @@
-module github.com:u6du/udpaddr
+module github.com/u6du/udpaddr
 
 go 1.12
 
