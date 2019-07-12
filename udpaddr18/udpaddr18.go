@@ -1,4 +1,4 @@
-package udpaddr
+package udpaddr18
 
 import (
 	"encoding/binary"
